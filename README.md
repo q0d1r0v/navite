@@ -1,4 +1,4 @@
-# Vue 3 + TypeScript + Vite + Naive UI
+# Vue 3 + TypeScript + Vite + Naive UI + Tailwind CSS
 
 ```
 1 => git clone https://github.com/qodirovoybekjon4929/navite.git
