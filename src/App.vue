@@ -4,7 +4,7 @@ import navBar from "~/components/nav-bar.vue"
 
 <template>
   <div>
-    <navBar message="hello word"/>
+    <navBar/>
     <router-view/>
   </div>
 </template>
